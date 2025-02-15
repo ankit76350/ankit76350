@@ -48,7 +48,7 @@ I am a passionate **Full Stack Developer** and **App Developer** with expertise 
 
 ## 📫 Connect with Me
 - **GitHub:** [https://github.com/ankit76350](https://github.com/ankit76350)
-- **LinkedIn:** [https://www.linkedin.com/in/ankit-kumar-71bba026b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://linkedin.com/)
+- **LinkedIn:** [linkdin](https://www.linkedin.com/in/ankit-kumar-71bba026b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Portfolio:** [ankit.bbrschool.com](https://ankit.bbrschool.com/)
 
 ⭐ **Feel free to explore my repositories and contribute!**
