@@ -38,11 +38,11 @@ I am a passionate **Full Stack Developer** and **App Developer** with expertise 
 
 
 ## 🔥 Projects & Experience
-- Developed and deployed **Production Data Management ERP Module** - [GitHub](https://github.com/dummy-link) | [Live Demo](https://dummy-link.com)
-- Developed **NIT Sikkim Website** - [GitHub](https://github.com/dummy-link) | [Live Demo](https://dummy-link.com)
-- Built **One School Website** - [GitHub](https://github.com/dummy-link) | [Live Demo](https://dummy-link.com)
-- Developed and deployed **full-featured e-commerce platforms** - [GitHub](https://github.com/dummy-link) | [Live Demo](https://dummy-link.com)
-- Built **mobile applications** using React Native with API integrations - [GitHub](https://github.com/dummy-link) | [Live Demo](https://dummy-link.com)
+- Developed and deployed **Production Data Management ERP Module** - [Private-Repo](https://github.com/ankit76350) | [Live Demo](https://dharaksha-dbs.online/)
+- Developed **NIT Sikkim Website** - [Private-Repo](https://github.com/ankit76350) | [Live Demo](https://nitsikkim.ac.in/)
+- Built **One School Website** - [Private-Repo](https://github.com/ankit76350) | [Live Demo](https://bbrschool.com/)
+- Developed and deployed **full-featured e-commerce platforms** - [GitHub]() | [Live Demo]()
+- Built **mobile applications** using React Native with API integrations - [GitHub](https://github.com/ankit76350/social-app) | [NA]()
 - Worked on **Zoho Catalyst** for cloud-based solutions
 - Experience in **AWS cloud services** for scalable applications
 
