@@ -20,7 +20,7 @@ I am a passionate **Full Stack Developer** and **App Developer** with expertise 
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
 ![Redux](https://img.shields.io/badge/State%20Management-Redux-purple?style=for-the-badge&logo=redux)
 ![Flutter](https://img.shields.io/badge/Flutter-v3.24-blue?logo=flutter)
-[![pub package](https://img.shields.io/pub/v/YOUR_PACKAGE_NAME.svg)](https://pub.dev/packages/YOUR_PACKAGE_NAME)
+![pub package](https://img.shields.io/pub/v/YOUR_PACKAGE_NAME.svg)]
 ![Build](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/actions/workflows/flutter.yml/badge.svg)
 ![Dart](https://img.shields.io/badge/Dart-v3.5-blue?logo=dart)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
