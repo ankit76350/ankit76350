@@ -19,14 +19,13 @@ I am a passionate **Full Stack Developer** and **App Developer** with expertise 
 ![Java](https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
 ![Redux](https://img.shields.io/badge/State%20Management-Redux-purple?style=for-the-badge&logo=redux)
-![Flutter](https://img.shields.io/badge/Flutter-v3.24-blue?logo=flutter)
-![pub package](https://img.shields.io/pub/v/YOUR_PACKAGE_NAME.svg)]
-![Build](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/actions/workflows/flutter.yml/badge.svg)
-![Dart](https://img.shields.io/badge/Dart-v3.5-blue?logo=dart)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![Flutter](https://img.shields.io/badge/Framework-Flutter-blue?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Language-Dart-blue?style=for-the-badge&logo=dart)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 
 
 
